@@ -27,4 +27,9 @@ To view or edit this project locally, clone the repository:
 git clone https://github.com/AltUser44/Portfolio2.git
 
 
+# License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Contact
+For any questions or feedback, please contact kpnkese@gmail.com.
 
