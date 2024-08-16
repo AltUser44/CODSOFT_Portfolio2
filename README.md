@@ -24,4 +24,6 @@ To view or edit this project locally, clone the repository:
 git clone https://github.com/AltUser44/Portfolio2.git
 
 
+![Screenshot 2024-08-16 033835](https://github.com/user-attachments/assets/0cc148a9-a5c5-483d-9a2c-1405a4a6205d)
+
 
