@@ -24,7 +24,7 @@ This repository contains the code for my personal portfolio website. The site sh
 To view or edit this project locally, clone the repository:
 
 ```bash
-git clone https://github.com/AltUser44/Portfolio2.git
+git clone https://github.com/AltUser44/CODSOFT_Portfolio2
 
 
 # License
